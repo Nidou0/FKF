@@ -1,6 +1,6 @@
 <?php 
 // Global Configuration start: From here you can change the email-id of receiver, cc, from email-id & subject;
-$to = "contact@furkidsfarm.org";
+$to = "hope@furkidsfarm.org";
 $from = "info@FKF.com";
 $cc = "";
 $subject = "FKF Contact us form";
